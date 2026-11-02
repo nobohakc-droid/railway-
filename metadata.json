@@ -1,0 +1,8 @@
+{
+  "name": "RailConnect AI",
+  "description": "AI-powered Indian Railway connecting train finder that uncovers confirmed berth routes and optimal split connections when direct trains are fully booked.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
